@@ -3,6 +3,12 @@
   padding-right: 60px;
 }
 
+h1
+{
+  text-align: center;
+  color: white;
+}
+
 nav {
   height: 60px;
   background-color: grey;

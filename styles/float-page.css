@@ -10,3 +10,33 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+h2
+{
+  text-align: center;
+  color: white;
+}
+
+blockquote
+{
+  font-weight:bold;
+}
+
+.medium {
+  width: 300px;
+}
+
+.img-left, .img-right {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.img-left {
+  float: left;
+  margin-right: 15px;
+}
+
+.img-right {
+  float: right;
+  margin-left: 15px;
+}
